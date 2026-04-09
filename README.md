@@ -1,4 +1,7 @@
 # Dynano
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/280a0ade-07cc-4f15-a777-dceea2fb5a74" alt="icon-512" width="200"/>
+</div>
 
 **Dynano** is a free macOS menu bar app that turns the MacBook notch into a live hub for system stats, media controls, calendar, Claude usage and animated desk pets.
 
