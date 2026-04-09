@@ -11,8 +11,6 @@ Get the latest signed and notarized build:
 - **Website:** <https://matthiasschedel.com/tools/dynano>
 - **Releases:** see the [Releases tab](../../releases) for every version, with checksums and changelogs.
 
-Each `Dynano-X.Y.Z.dmg` is signed with an Apple Developer ID and notarized by Apple — Gatekeeper won't warn you.
-
 ## System requirements
 
 - macOS 26.2 or later
